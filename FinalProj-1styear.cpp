@@ -421,9 +421,7 @@ int main()
     cout << "\n\t-----------------------------------";
     cout << "\n\t|          Members List           |";
     cout << "\n\t|                                 |";
-    cout << "\n\t|     Cabidog, John Derick Q.     |";
-    cout << "\n\t|     Policarpio, Adrian T.       |";
-    cout << "\n\t|     Salmon, Jimiel DC.          |";
+    cout << "\n\t|        Salmon, Jimiel DC.       |";
     cout << "\n\t|                                 |";
    cout << "\n\t-----------------------------------" << endl;
 	system("pause");
